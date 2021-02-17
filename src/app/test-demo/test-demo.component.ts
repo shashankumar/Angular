@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TestDemoComponent implements OnInit {
 public name ="shashank2";
+public back_name="Srivastava";
 public url =window.location.href;
 public boolValue =true;
 public variable = "newcolor";
